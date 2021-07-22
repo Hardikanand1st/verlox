@@ -1,3 +1,8 @@
-# i do shit.
+## I do shit.
 
-[site](https://corruptions.cc)
+## Experience
+* Lithium Nuker [WIP]
+
+### Links
+[Site](https://verlox.cc)<br>
+[Lithium Discord](https://lithium.verlox.cc/discord)

@@ -1,7 +1,7 @@
 ## I do shit.
 
 ## Experience
-* Lithium Nuker [WIP]
+* [Lithium Nuker](https://lithium.verlox.cc) [WIP]
 * [NHentai download](https://github.com/verlox/nHentaiDownloader) [For memes]
 
 ### Links

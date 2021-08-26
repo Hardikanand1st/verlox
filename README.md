@@ -16,5 +16,5 @@ Lithium is my main project at the moment, if you want to check it out, its site 
 * [Site](https://verlox.cc)
 * [Lithium Discord](https://lithium.verlox.cc/discord)
 
-## sniffcat.jpg
-![sniffcat.jpg](https://raw.githubusercontent.com/verlox/Discord-QR-Token-Logger/master/Discord-QR-Token-Stealer/sniffcat.jpg)
+<h2 align="center">sniffcat.jpg</h2>
+<p align="center">![sniffcat.jpg](https://raw.githubusercontent.com/verlox/Discord-QR-Token-Logger/master/Discord-QR-Token-Stealer/sniffcat.jpg)</p>

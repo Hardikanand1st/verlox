@@ -1,4 +1,4 @@
-# Hello I'm verlox
+<h1 align="center">Hello I'm verlox</h1>
 
 ## Experience
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]

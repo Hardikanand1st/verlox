@@ -3,7 +3,7 @@
 ## Experience
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]
 * [Discord QR Token Logger](https://github.com/verlox/Discord-QR-Token-Logger)
-* [NHentai download](https://github.com/verlox/nHentaiDownloader) [For memes]
+* [Discord ID Scraper](https://github.com/verlox/Discord-ID-Scraper)
 
 ## Languages I use most
 * C#

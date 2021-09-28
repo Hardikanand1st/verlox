@@ -1,7 +1,7 @@
 <h1 align="center">Hey I'm verlox 👋</h1>
 
 ## About
-I'm verlox and I typically work with C# and NodeJS. I started leaning how to code about 2012, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into penetration testing or software development.
+I'm verlox and I typically work with C# and NodeJS. I started leaning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into penetration testing or software development.
 
 ## Projects
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]

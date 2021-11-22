@@ -3,16 +3,16 @@
 [![wakatime](https://wakatime.com/badge/user/0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9.svg)](https://wakatime.com/@0ccf7ed5-30a2-486d-8ea4-6b0ca58cd9c9)
 
 ## About
-I'm verlox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into penetration testing or software development.
+I'm verlox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
+
+## What I'm currently working on
+I am currently coding a CS:GO 2018 HVH cheat loader for [gamesense.buzz](https://gamesense.buzz)
 
 ## Projects
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]
 * [Discord QR Token Logger](https://github.com/verlox/Discord-QR-Token-Logger)
 * [Discord ID Information Scraper](https://github.com/verlox/Discord-ID-Info-Scraper)
-* Veylib, my UI library for Windows Applications, currently private repo and working for CLI only. A preview of how it looks is available on **Lithium**
-
-## Other
-Lithium is my main project at the moment, if you want to check it out, its site is [here](https://lithium.verlox.cc) and its Discord is [here](https://lithium.verlox.cc/discord)
+* Veylib, a general use library and API wrapper. Currently is private but will be rereleased soon.
 
 ## Links
 * [Site](https://verlox.cc)

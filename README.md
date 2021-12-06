@@ -15,6 +15,10 @@ I'm verlox and I typically work with C# and NodeJS. I started learning how to co
 ## What I'm currently working on
 It's a secret
 
+## Goals
+* Learn C++
+* Improve my server's API further
+
 ## Projects
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]
 * [Discord QR Token Logger](https://github.com/verlox/Discord-QR-Token-Logger)

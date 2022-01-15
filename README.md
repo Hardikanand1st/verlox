@@ -32,7 +32,7 @@ It's a secret
 ## Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
 
-<h2 align="center">Merry winter months</h2>
+<h2 align="center">sniffcat.jpg</h2>
 <div align="center">
-  <img src="https://verlox.cc/raw/SXeGQD"></img>
+  <img src="https://raw.githubusercontent.com/verlox/Discord-QR-Token-Logger/master/Discord-QR-Token-Stealer/sniffcat.jpg"></img>
 </div>

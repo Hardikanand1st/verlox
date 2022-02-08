@@ -1,4 +1,5 @@
 <h1 align="center">Hey I'm verlox 👋</h1>
+<h2 align="center">abusing requests since '20</h2>
 
 <div align="center">
 
@@ -13,7 +14,12 @@
 I'm verlox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 
 ## What I'm currently working on
-It's a secret
+New authentication system / learning typescript
+
+## Languages I know
+* C#
+* NodeJS
+* Typescript (working on it)
 
 ## Goals
 * Learn C++
@@ -21,9 +27,8 @@ It's a secret
 
 ## Projects
 * [Lithium Nuker](https://lithium.verlox.cc) [WIP]
-* [Discord QR Token Logger](https://github.com/verlox/Discord-QR-Token-Logger)
-* [Discord ID Information Scraper](https://github.com/verlox/Discord-ID-Info-Scraper)
 * Veylib, a general use library and API wrapper. Currently is private but will be rereleased soon.
+* VeyAuth, backend authentication system in Typescript
 
 ## Links
 * [Site](https://verlox.cc)

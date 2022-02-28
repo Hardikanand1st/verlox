@@ -27,8 +27,7 @@ I'm verlox and I typically work with C# and NodeJS. I started learning how to co
 * Learn C++
 * Improve my server's API further
 
-## Projects
-* [Lithium Nuker](https://github.com/verlox/Lithium-Nuker-2) (open sourced as of Valentines day)
+## Current projects
 * [Veylib](https://github.com/verlox/Veylib2), a general use library and API wrapper
 * VeyAuth, backend authentication system in Typescript
 

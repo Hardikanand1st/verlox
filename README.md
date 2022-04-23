@@ -15,25 +15,21 @@
 I'm verlox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 
 ## What I'm currently working on
-* New authentication system [VeyAuth](https://github.com/verlox/VeyAuth)
-* Learning typescript
+* [VeyAuth](https://github.com/verlox/VeyAuth) - Authentication library in TypeScript
+* [VeyLib](https://github.com/verlox/Veylib) - Library for C# applications, mainly for console applications
+* API v3 - The API my site runs off of and the auth piggy backs on
 
 ## Languages I know
 * C#
 * NodeJS
-* Typescript (working on it)
+* Typescript
 
-## Goals
+## Long term goals
 * Learn C++
-* Improve my server's API further
-
-## Current projects
-* [Veylib](https://github.com/verlox/Veylib2), a general use library and API wrapper
-* VeyAuth, backend authentication system in Typescript
+* Get a job as a backend software engineer
 
 ## Links
 * [Site](https://verlox.cc)
-* [Lithium Discord](https://lithium.verlox.cc/discord)
 
 ## Disclaimer
 All the code and projects provided (to you, from me) are strictly for educational purposes. I do not encourage use of any of my projects, and they are simply to be used as a proof-of-concept.
